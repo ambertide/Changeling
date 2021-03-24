@@ -8,6 +8,9 @@ All of the assets used for the making of changeling were free to use, here are t
 
 * **itch.io background**: Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CHUTTERSNAP</a> on <a href="/s/photos/fire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 * **itch.io embed and thumbnail**: Photo by <a href="https://unsplash.com/@arcsigne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wesley Balten</a> on <a href="/s/photos/fire-people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* **logo background**: Photo by <a href="https://unsplash.com/@fourcolourblack?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adam Wilson</a> on <a href="https://unsplash.com/s/photos/fire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
 
 ### Game
 
